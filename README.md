@@ -5,17 +5,14 @@
 npm install
 ```
 
-2. Start the development server:
-```bash
-npm run dev
-```
-
-3. Build for production:
+2. Build for production:
 ```bash
 npm run build
 ```
 
-4. Preview the production build:
+3. Start the development server:
 ```bash
-npm run preview
+npm run dev
 ```
+
+
